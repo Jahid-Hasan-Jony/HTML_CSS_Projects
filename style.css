@@ -1,0 +1,85 @@
+body{font-family: 'Poppins', sans-serif;}
+
+section{width: 980px;
+        margin: 0 auto;
+        padding-bottom: 50px;}
+
+h1,h2,h3,h4,h5{margin: 0;}
+
+p{font-size: 20px;}
+
+#side-bar{border-left:3px solid #FF5959;
+        padding: 0 5px;}
+
+#side-bar h1{font-size: 50px;
+             margin: 20px 0;
+             font-family: 'Yeseva One', cursive;}
+
+.font-color{color: #FFAD5A;}
+
+.container-flex{display: flex;}
+
+.half-side{width:50%;
+           float: left;
+           padding-left: 2%;}
+
+.half-side h3{font-size: 35px;}
+
+.half-side img{width: 75%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;}
+
+.btn-link{text-decoration: none;
+          background-color: #FF5959;
+          padding: 15px 25px;
+          border-radius: 5px;
+          color: white;
+          display: inline-block;
+          margin: 10px 0;}
+
+.mission-part h2{text-align: center;
+             padding: 20px;
+             font-size: 40px;}
+
+.mission-part .cards{width: 30%;
+                padding: 18px;
+                margin-right: 3%;
+                border-radius: 5%;}
+
+.mission-part .cards h5{font-size: 25px;}
+
+.mission-part .cards img{width: 40%;
+                     padding: 5px;}
+
+#first-card{background-color: #edf5f6;}
+#second-card{background-color: #ffeeee;}
+#third-card{background-color: #fff4d6;}
+
+.Running-mission h2{text-align: center;
+                    padding: 20px;
+                    font-size: 40px;}
+
+.Running-mission .shadow-box{width:46%;
+                             margin-right:2%;
+                             float: left;
+                             padding: 3%;
+                             box-shadow: 0 0 20px gray;}
+.Running-mission .shadow-box h4{color: orange;
+                                font-family: 'Poppins', sans-serif;
+                                font-size: 25px;}
+
+.Running-mission .shadow-box a{background-image: linear-gradient(orange, #FF5959);
+}
+
+.foot-section{background-color: black;
+              text-align: center;
+              padding: 30px;}
+
+.foot-section h4{font-size: 30px;
+                color: white;
+                font-family: 'Lobster', cursive;
+                padding: 10px;}
+
+.foot-section p{font-size: 16px;
+                color: #D9DBE1;}
